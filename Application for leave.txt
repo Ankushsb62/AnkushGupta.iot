@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Application for leave</title>
+<body bgcolor="black" text="yellow">
+<u><center><h1>APPLICATION FOR LEAVE</h1></center></u>
+<h3><p align="left">To,<br>
+The Principal,</br>
+S.B.JAIN INSTITUTE OF TECHNOLOGY,<br>MANAGEMENT AND RESEARCH,</br>
+Yerla Village, Kalmeshwar Road,<br>Nagpur,Maharashtra 441501</br>
+Date-16/5/22
+
+<br><br>Subject:- Leave application for two days</br></br>
+Respected Sir,
+<i><p align="left">I am a student of AIML 2nd Semester, Section-D at your College. This is to inform you that , I have to visit my cousin due to my brother's birthday party.
+<p align="left">Therefore, I will not be able to come to college tomorrow. Kindly give me the leave for <strike>three</strike>  two days. I shall be really grateful to you.
+<marquee><p align="left"><u>Thanking You.</u>
+<br><u>Ankush Gupta.</u></br></marquee></p></h3>
+<p align="center">******</p>
+</body>
+</head>
+</html>
+
